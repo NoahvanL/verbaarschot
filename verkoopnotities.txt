@@ -1,0 +1,44 @@
+VERKOOPNOTITIES – WEBSITE VERBAARSCHOT BESTRATINGEN EN RIOOLWERKEN
+
+Wat er nu klaarstaat
+- Een moderne, nette website met meerdere losse pagina's
+- Volledig mobielvriendelijk
+- Geen contactformulier, wel directe bel- en mailknoppen
+- Duidelijke hoofdmenu-tabs:
+  1. Home
+  2. Bestratingen
+  3. Rioolwerken
+  4. Enkele projecten
+  5. Contact
+- Contactgegevens duidelijk zichtbaar
+- Projectpagina klaar om later met echte foto's te vullen
+
+Bestanden
+- index.html
+- bestratingen.html
+- rioolwerken.html
+- projecten.html
+- contact.html
+- styles.css
+
+Waarom dit sterker verkoopt
+- Het voelt als een echte complete bedrijfswebsite, niet als één lange landingspagina
+- Elke dienst heeft een eigen pagina en dus meer waarde voor de klant
+- De website oogt professioneler en overzichtelijker
+- Bezoekers vinden sneller wat ze zoeken
+- Werkt goed op mobiel en desktop
+
+Wat je tegen het bedrijf kunt zeggen
+- "Ik heb alvast een moderne website voor jullie gemaakt met aparte pagina's voor jullie diensten."
+- "Klanten kunnen direct doorklikken naar Bestratingen, Rioolwerken, Projecten en Contact."
+- "De site is rustiger, duidelijker en professioneler opgebouwd."
+- "Projectfoto's kunnen later eenvoudig worden toegevoegd."
+- "De basis staat klaar en kan snel live gezet worden."
+
+Slimme upsells
+- Echte projectfoto's toevoegen
+- Google Maps kaart toevoegen
+- Reviews van klanten toevoegen
+- WhatsApp knop toevoegen
+- SEO-teksten per pagina uitbreiden
+- Extra pagina's maken voor bijvoorbeeld Sierbestrating of Machinaal bestraten
